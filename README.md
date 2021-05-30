@@ -1,6 +1,6 @@
 # phantom_wallet_clone
 
-A new Flutter project.
+Phantom Wallet (Solana chain wallet) made with Flutter
 
 ## Getting Started
 
